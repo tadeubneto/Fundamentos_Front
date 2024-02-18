@@ -11,7 +11,7 @@ acima de 40 obesidade grave
 */
 
 
-/*const peso = 70;
+const peso = 70;
 const altura = 1.75;
 const imc = peso / (altura*altura);
 
@@ -27,4 +27,4 @@ if (imc <18.5) {
   console.log('Obeso')
 } else {
   console.log('Obesidade Grave')
-}*/
+}
