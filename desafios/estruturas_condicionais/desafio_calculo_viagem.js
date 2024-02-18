@@ -10,7 +10,7 @@ variáveis
 
 imprima o valor que será gasto na viagem */
 
-/*const precGasolina = 5.79
+const precGasolina = 5.79
 const precEtanol = 4.35
 const consumoMedio = 11
 const distPerco = 300
@@ -32,4 +32,4 @@ if (tipoCombustivel === 'Etanol') {
       ' é de R$' +
       resultado.toFixed(2)
   )
-}*/
+}
