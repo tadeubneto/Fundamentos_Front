@@ -6,7 +6,7 @@ dinheior ou pix 15% desc
 acima de 2x com 10% juros
 */
 
-/*const valorProduto = 100;
+const valorProduto = 100;
 const formaPagamento = 'Parcelado3';
 
 if (formaPagamento === 'Débito'){
@@ -20,4 +20,4 @@ if (formaPagamento === 'Débito'){
 } else {
   console.log('não aceitamos este método de pagamento')
 }
-*/
+
