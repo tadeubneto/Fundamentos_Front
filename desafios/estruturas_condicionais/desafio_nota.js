@@ -1,4 +1,4 @@
-/* faça um algoritimo que daod as 3 notas de um aluno e calcule e imprima a média e a classificação na tabela
+/* faça um algoritimo que dado as 3 notas de um aluno calcule e imprima a média e a classificação na tabela
 
 media = (n1 + n2 + n3) / 3;
 
