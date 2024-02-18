@@ -7,14 +7,14 @@ podemos add e remover elementos de uma lista
 
 a lista pode começar vazia
 
-para percorrer dinamicamente uma lista é necessário estruturas de repetição: for
+para percorrer dinamicamente uma lista é necessário estruturas de repetição: for 
 
-//crinado uma tabuada com for
+crinado uma tabuada com for */
 
 const numero = 7;
 
 for (let i = 1 ; i <= 10; i++) {
-//console.log(i * numero);
+console.log(i * numero);
 }
 
 // apenas numeros pares
@@ -28,9 +28,6 @@ for (let i = 0; i < numeros.length; i++) {
   }
 }
 
-
-
-
 const numeros = []
 
 for (let i = 0; i < 10; i++){
@@ -41,4 +38,4 @@ if (numeroPar) {
 }
 
 console.log(numeros)
-*/
+
