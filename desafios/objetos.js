@@ -17,10 +17,8 @@ classe é a definição (como o objeto deve ser), instancia é a ocorrencia
 
 o nome da CLASSE sempre vai começar com letra maiúscula
 
-aqui estudamos sobre orientação de objetos
-
-
-
+aqui estudamos sobre orientação de objetos 
+*/
 
 class Carro {
   marca
@@ -81,4 +79,3 @@ console.log(dani.calcImc())
 console.log(dani.classifiqueImc())
 
 
-*/
