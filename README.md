@@ -22,4 +22,4 @@ Objetos;
 
 - Resolvido um desfio orientado a objetos
 
-"dentro de cada arquivo está o desafio resolvido!"
+"Dentro de cada arquivo está o desafio resolvido. Pode haver desafio com 2 exemplos por código"
